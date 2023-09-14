@@ -1,4 +1,4 @@
-### Hi there 👋
+### Better Starts Now ⌚️
 
 <!--
 **chen201724/chen201724** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
