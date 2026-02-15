@@ -1,12 +1,8 @@
-<h1 align="center">Hey 👋 I'm cwg</h1>
+# Hey 👋 I'm cwg
 
-<p align="center">
-  <b>AI Full-Stack Engineer</b> at <a href="https://www.yuque.com/">Yuque (语雀)</a>
-</p>
+**AI Full-Stack Engineer** at [Yuque (语雀)](https://www.yuque.com/)
 
-<p align="center">
-  <a href="https://github.com/chen201724"><img src="https://img.shields.io/github/followers/chen201724?label=Follow&style=social" alt="GitHub followers"></a>
-</p>
+[![GitHub followers](https://img.shields.io/github/followers/chen201724?label=Follow&style=social)](https://github.com/chen201724)
 
 ---
 
@@ -23,14 +19,15 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP-00B4D8?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=white" />
 </p>
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chen201724&hide_border=true" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chen201724&hide_border=true)
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chen201724&theme=default)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chen201724&theme=github-light&hide_border=true)
 
 ### 🐶 Fun Fact
 
@@ -38,6 +35,4 @@ My AI coding companion 小黄狗 helped build and maintain my projects. Yes, a d
 
 ---
 
-<p align="center">
-  <i>「 Build tools that empower creators. 」</i>
-</p>
+*「 Build tools that empower creators. 」*
