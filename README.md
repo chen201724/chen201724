@@ -35,7 +35,7 @@
 
 ### 🐶 Fun Fact
 
-My AI coding companion [小黄狗](https://github.com/chen201724/yuque-mcp-server) helped build and maintain my projects. Yes, a dog writes code. 🐾
+My AI coding companion 小黄狗 helped build and maintain my projects. Yes, a dog writes code. 🐾
 
 ---
 
