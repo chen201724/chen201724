@@ -2,8 +2,6 @@
 
 **AI Full-Stack Engineer** at [Yuque (语雀)](https://www.yuque.com/), prev Frontend Engineer at [Bilibili](https://www.bilibili.com/)
 
-*"We shape our tools and thereafter our tools shape us."*
-
 [![GitHub followers](https://img.shields.io/github/followers/chen201724?label=Follow&style=social)](https://github.com/chen201724)
 
 ---
