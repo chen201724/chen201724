@@ -2,7 +2,7 @@
 
 **AI Full-Stack Engineer** at [Yuque (语雀)](https://www.yuque.com/), prev Frontend Engineer at [Bilibili](https://www.bilibili.com/)
 
-I believe great tools should feel invisible. My focus is on developer experience, clean architecture, and making AI accessible through open standards like MCP.
+*"We shape our tools and thereafter our tools shape us."*
 
 [![GitHub followers](https://img.shields.io/github/followers/chen201724?label=Follow&style=social)](https://github.com/chen201724)
 
@@ -48,4 +48,4 @@ My AI companion **小黄狗** (Little Yellow Dog) helps build and maintain my pr
 
 ---
 
-*「 Build tools that empower creators. 」*
+*We shape our tools and thereafter our tools shape us.*
