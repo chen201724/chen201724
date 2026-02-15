@@ -25,10 +25,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chen201724&hide_border=true)
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chen201724&theme=default)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chen201724&theme=github-light&hide_border=true)
-
 ### 🐶 Fun Fact
 
 My AI coding companion 小黄狗 helped build and maintain my projects. Yes, a dog writes code. 🐾
