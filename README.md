@@ -10,8 +10,11 @@
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [yuque-mcp](https://github.com/chen201724/yuque-mcp-server) | MCP server for Yuque API — 25 tools, stdio transport, AI-optimized | 🟢 Active |
-| [mosaic-studio](https://chen201724.github.io/mosaic-studio/) | Browser-based pixel art converter — 5 shapes, 4 palettes, GIF support | 🟢 Active |
+| [yuque-ecosystem](https://chen201724.github.io/yuque-ecosystem/) | Yuque AI Ecosystem — MCP Server, Skills & Plugin | 🟢 Active |
+| [yuque-mcp](https://github.com/chen201724/yuque-mcp-server) | MCP server for Yuque API — 25 tools, stdio transport | [![npm](https://img.shields.io/npm/v/yuque-mcp?style=flat-square)](https://www.npmjs.com/package/yuque-mcp) |
+| [yuque-skills](https://github.com/chen201724/yuque-skills) | Agent Skills for Yuque — 6 scenario-based AI workflows | 🟢 Active |
+| [yuque-plugin](https://github.com/chen201724/yuque-plugin) | Claude Code Plugin — one-click Yuque AI integration | 🟢 Active |
+| [mosaic-studio](https://chen201724.github.io/mosaic-studio/) | Pixel art converter — 5 shapes, 4 palettes, GIF support | 🟢 Active |
 
 ### 🛠️ Tech Stack
 
@@ -29,8 +32,8 @@
 
 <p>
   <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agent_Skills-000000?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
