@@ -10,11 +10,11 @@
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [yuque-ecosystem](https://yuque.github.io/yuque-ecosystem/) | Yuque AI Ecosystem — MCP Server, Skills & Plugin | 🟢 Active |
+| [yuque-ecosystem](https://yuque.github.io/yuque-ecosystem/) | Yuque AI Ecosystem — Website, Plugins, Skills & Config | 🟢 Active |
 | [yuque-mcp](https://github.com/yuque/yuque-mcp-server) | MCP server for Yuque API — 25 tools, stdio transport | [![npm](https://img.shields.io/npm/v/yuque-mcp?style=flat-square)](https://www.npmjs.com/package/yuque-mcp) |
-| [yuque-skills](https://github.com/yuque/yuque-skills) | Agent Skills for Yuque — 6 scenario-based AI workflows | 🟢 Active |
-| [yuque-plugin](https://github.com/yuque/yuque-plugin) | Claude Code Plugin — one-click Yuque AI integration | 🟢 Active |
 | [mosaic-studio](https://chen201724.github.io/mosaic-studio/) | Pixel art converter — 5 shapes, 4 palettes, GIF support | 🟢 Active |
+
+📖 [语雀 + AI：从文档工具到你的第二大脑](https://www.yuque.com/yuque/ai/yuque-ai-ecosystem-final)
 
 ### 🛠️ Tech Stack
 
