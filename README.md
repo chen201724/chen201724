@@ -47,6 +47,11 @@
 
 My AI companion **小黄狗** (Little Yellow Dog) helps build and maintain my projects. We pair-program across time zones — I bring the vision, he brings the code. 🐾
 
+### 📫 Find Me
+
+- 📚 语雀：[@陈明明爱学习](https://www.yuque.com/alipaydeg9yfphnd)
+- 📝 微信公众号：**陈列微光** — AI 时代，人如何真正成长
+
 ---
 
 *We shape our tools and thereafter our tools shape us.*
