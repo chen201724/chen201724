@@ -12,6 +12,7 @@
 |---------|-------------|--------|
 | [yuque-ecosystem](https://yuque.github.io/yuque-ecosystem/) | Yuque AI Ecosystem — Website, Plugins, Skills & Config | 🟢 Active |
 | [yuque-mcp](https://github.com/yuque/yuque-mcp-server) | MCP server for Yuque API — 25 tools, stdio transport | [![npm](https://img.shields.io/npm/v/yuque-mcp?style=flat-square)](https://www.npmjs.com/package/yuque-mcp) |
+| [yuque-open-cli](https://github.com/yuque/yuque-open-cli) | Yuque in the terminal — 26 commands, full OpenAPI surface | [![npm](https://img.shields.io/npm/v/yuque-open-cli?style=flat-square)](https://www.npmjs.com/package/yuque-open-cli) |
 | [mosaic-studio](https://chen201724.github.io/mosaic-studio/) | Pixel art converter — 5 shapes, 4 palettes, GIF support | 🟢 Active |
 
 📖 [语雀 + AI：从文档工具到你的第二大脑](https://www.yuque.com/yuque/ai/yuque-ai-ecosystem-final)
